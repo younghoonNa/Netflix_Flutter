@@ -4,6 +4,7 @@
 https://www.youtube.com/watch?v=6RkzSR3VycM&list=PL3ilpnPyonYfl82dvBq5fiDD-d4PkRte3
 
 플러터 활용하여 앱 만들기 -> 옥상쓸래 개발한 사촌형에게 플러터를 배웠습니다. <br>
+언젠간 나도,, 앱 만들거야,, 언젠간,,<br>
 
 옥상쓸래 (플레이스토어/ios App Store 출시중!!) 많이 이용해주세요..! <br>
 
